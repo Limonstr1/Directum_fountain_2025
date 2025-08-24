@@ -1,0 +1,16 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="I N I T" Index="0" />
+    <Button Name="gubanov_1_10-1_20_RGB" Index="1" />
+    <Button Name="gubanov_RGB_ON_cyan_all" Index="2" />
+    <Button Name="gubanov_RGB_flash_all" Index="3" />
+    <Button Name="gubanov_strobe_all" Index="4" />
+    <Button Name="gubanov_central_flash" Index="5" />
+    <Button Name="gubanov_3_4_5_7_8_flash" Index="6" />
+    <Button Name="gubanov_RGB_6_flash" Index="7" />
+    <Button Name="gubanov_4 _beats" Index="8" />
+    <Button Name="gubanov_RGB_end" Index="9" />
+    <Button Name="gubanov_fontain_wave" Index="10" />
+    <Button Name="ARC_GUBANOV_1_20_1_25_FOUNTAIN" Index="-2" />
+  </Zone>
+</ZoneParam>

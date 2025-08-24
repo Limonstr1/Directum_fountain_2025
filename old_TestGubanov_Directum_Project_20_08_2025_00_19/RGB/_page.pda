@@ -1,0 +1,215 @@
+<Page Author="dylan" Version="1.0">
+  <Global InMaster="1" DmxSend="1" Freeze="0" Lock="0" SceneFadeManual="0" SceneFadeEnable="1" Icon="" ID="112" Currentlayer="0" ShowTab="0" Zoom="1" Image="" ImageCoef="100">
+    <Shortcut Key="0" Flag="1" />
+    <ShortcutFreeze Key="0" Flag="1" />
+    <ShortcutSendDmx Key="0" Flag="1" />
+  </Global>
+  <Lock AskPassword="0" PageRename="0" PageDelete="0" PageSettings="0" PageExport="0" PageFreeze="0" PageDmx="0" PageLock="0" PageAddInMaster="0" FxLiveMode="0" FxEmbeddedMode="0" FxAddEditDeleteRenameGroup="0" FxMove="0" Dimmer="0" Speed="0" ButtonsLayersChange="0" ButtonsLayersModif="0" ButtonsLayerOrder="0" ButtonsActivation="0" ButtonsOrder="1" ButtonsCreate="1" ButtonsEdit="1" ButtonsSettings="1" ButtonsRename="1" ButtonsDelete="1" ButtonsLinkKeyboard="1" ButtonsDimmer="0" ButtonsSpeed="0" ButtonsPhasing="0" ButtonsSize="0" />
+  <Group Name="N1 RGB">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="56" IdBeam="0" />
+  </Group>
+  <Group Name="N3 RGB">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="57" IdBeam="0" />
+    <Fx ID="58" IdBeam="0" />
+    <Fx ID="59" IdBeam="0" />
+    <Fx ID="60" IdBeam="0" />
+    <Fx ID="61" IdBeam="0" />
+    <Fx ID="62" IdBeam="0" />
+    <Fx ID="63" IdBeam="0" />
+    <Fx ID="64" IdBeam="0" />
+    <Fx ID="65" IdBeam="0" />
+    <Fx ID="66" IdBeam="0" />
+    <Fx ID="67" IdBeam="0" />
+    <Fx ID="68" IdBeam="0" />
+    <Fx ID="69" IdBeam="0" />
+    <Fx ID="70" IdBeam="0" />
+    <Fx ID="71" IdBeam="0" />
+    <Fx ID="72" IdBeam="0" />
+    <Fx ID="73" IdBeam="0" />
+    <Fx ID="74" IdBeam="0" />
+    <Fx ID="75" IdBeam="0" />
+    <Fx ID="76" IdBeam="0" />
+    <Fx ID="77" IdBeam="0" />
+    <Fx ID="78" IdBeam="0" />
+    <Fx ID="79" IdBeam="0" />
+    <Fx ID="80" IdBeam="0" />
+    <Fx ID="81" IdBeam="0" />
+    <Fx ID="82" IdBeam="0" />
+    <Fx ID="83" IdBeam="0" />
+    <Fx ID="84" IdBeam="0" />
+  </Group>
+  <Group Name="N4 RGB">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="85" IdBeam="0" />
+    <Fx ID="86" IdBeam="0" />
+    <Fx ID="87" IdBeam="0" />
+    <Fx ID="88" IdBeam="0" />
+    <Fx ID="89" IdBeam="0" />
+    <Fx ID="90" IdBeam="0" />
+    <Fx ID="91" IdBeam="0" />
+    <Fx ID="92" IdBeam="0" />
+  </Group>
+  <Group Name="N5 RGB">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="93" IdBeam="0" />
+    <Fx ID="94" IdBeam="0" />
+    <Fx ID="95" IdBeam="0" />
+    <Fx ID="96" IdBeam="0" />
+    <Fx ID="97" IdBeam="0" />
+    <Fx ID="98" IdBeam="0" />
+    <Fx ID="99" IdBeam="0" />
+    <Fx ID="100" IdBeam="0" />
+    <Fx ID="101" IdBeam="0" />
+    <Fx ID="102" IdBeam="0" />
+    <Fx ID="103" IdBeam="0" />
+    <Fx ID="104" IdBeam="0" />
+    <Fx ID="105" IdBeam="0" />
+    <Fx ID="106" IdBeam="0" />
+    <Fx ID="107" IdBeam="0" />
+  </Group>
+  <Group Name="N6 RGB">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="108" IdBeam="0" />
+    <Fx ID="109" IdBeam="0" />
+    <Fx ID="110" IdBeam="0" />
+    <Fx ID="111" IdBeam="0" />
+    <Fx ID="112" IdBeam="0" />
+    <Fx ID="113" IdBeam="0" />
+    <Fx ID="114" IdBeam="0" />
+    <Fx ID="115" IdBeam="0" />
+    <Fx ID="116" IdBeam="0" />
+    <Fx ID="117" IdBeam="0" />
+    <Fx ID="118" IdBeam="0" />
+    <Fx ID="119" IdBeam="0" />
+    <Fx ID="120" IdBeam="0" />
+    <Fx ID="121" IdBeam="0" />
+    <Fx ID="122" IdBeam="0" />
+    <Fx ID="123" IdBeam="0" />
+    <Fx ID="124" IdBeam="0" />
+    <Fx ID="125" IdBeam="0" />
+    <Fx ID="126" IdBeam="0" />
+    <Fx ID="127" IdBeam="0" />
+    <Fx ID="128" IdBeam="0" />
+    <Fx ID="129" IdBeam="0" />
+    <Fx ID="130" IdBeam="0" />
+    <Fx ID="131" IdBeam="0" />
+    <Fx ID="132" IdBeam="0" />
+    <Fx ID="133" IdBeam="0" />
+    <Fx ID="134" IdBeam="0" />
+    <Fx ID="135" IdBeam="0" />
+    <Fx ID="136" IdBeam="0" />
+    <Fx ID="137" IdBeam="0" />
+  </Group>
+  <Group Name="N8 RGB">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="138" IdBeam="0" />
+    <Fx ID="139" IdBeam="0" />
+    <Fx ID="140" IdBeam="0" />
+    <Fx ID="141" IdBeam="0" />
+    <Fx ID="142" IdBeam="0" />
+    <Fx ID="143" IdBeam="0" />
+  </Group>
+  <Compress Name="Color mixing " SwitchOneIsOn="0" Sort="0" ModeApplication="Switch" Type="SplashTrichro" Icon="trichro.png" PX="1040" PY="587" SX="0" SY="0" Flag="36" />
+  <Compress Name="Color Effects" SwitchOneIsOn="0" Sort="0" ModeApplication="Switch" Type="Icon" Icon="" PX="0" PY="0" SX="0" SY="0" Flag="36" />
+  <Fxs>
+    <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="100" DmxU="0" />
+    <Fx ID="57" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="103" DmxU="0" />
+    <Fx ID="58" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="106" DmxU="0" />
+    <Fx ID="59" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="109" DmxU="0" />
+    <Fx ID="60" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="112" DmxU="0" />
+    <Fx ID="61" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="115" DmxU="0" />
+    <Fx ID="62" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="118" DmxU="0" />
+    <Fx ID="63" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="121" DmxU="0" />
+    <Fx ID="64" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="124" DmxU="0" />
+    <Fx ID="65" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="127" DmxU="0" />
+    <Fx ID="66" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="130" DmxU="0" />
+    <Fx ID="67" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="133" DmxU="0" />
+    <Fx ID="68" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="136" DmxU="0" />
+    <Fx ID="69" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="139" DmxU="0" />
+    <Fx ID="70" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="142" DmxU="0" />
+    <Fx ID="71" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="145" DmxU="0" />
+    <Fx ID="72" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="148" DmxU="0" />
+    <Fx ID="73" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="151" DmxU="0" />
+    <Fx ID="74" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="154" DmxU="0" />
+    <Fx ID="75" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="157" DmxU="0" />
+    <Fx ID="76" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="160" DmxU="0" />
+    <Fx ID="77" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="163" DmxU="0" />
+    <Fx ID="78" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="166" DmxU="0" />
+    <Fx ID="79" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="169" DmxU="0" />
+    <Fx ID="80" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="172" DmxU="0" />
+    <Fx ID="81" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="175" DmxU="0" />
+    <Fx ID="82" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="178" DmxU="0" />
+    <Fx ID="83" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="181" DmxU="0" />
+    <Fx ID="84" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="184" DmxU="0" />
+    <Fx ID="85" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="187" DmxU="0" />
+    <Fx ID="86" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="190" DmxU="0" />
+    <Fx ID="87" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="193" DmxU="0" />
+    <Fx ID="88" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="196" DmxU="0" />
+    <Fx ID="89" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="199" DmxU="0" />
+    <Fx ID="90" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="202" DmxU="0" />
+    <Fx ID="91" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="205" DmxU="0" />
+    <Fx ID="92" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="208" DmxU="0" />
+    <Fx ID="93" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="211" DmxU="0" />
+    <Fx ID="94" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="214" DmxU="0" />
+    <Fx ID="95" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="217" DmxU="0" />
+    <Fx ID="96" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="220" DmxU="0" />
+    <Fx ID="97" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="223" DmxU="0" />
+    <Fx ID="98" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="226" DmxU="0" />
+    <Fx ID="99" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="229" DmxU="0" />
+    <Fx ID="100" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="232" DmxU="0" />
+    <Fx ID="101" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="235" DmxU="0" />
+    <Fx ID="102" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="238" DmxU="0" />
+    <Fx ID="103" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="241" DmxU="0" />
+    <Fx ID="104" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="244" DmxU="0" />
+    <Fx ID="105" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="247" DmxU="0" />
+    <Fx ID="106" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="250" DmxU="0" />
+    <Fx ID="107" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="253" DmxU="0" />
+    <Fx ID="108" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="256" DmxU="0" />
+    <Fx ID="109" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="259" DmxU="0" />
+    <Fx ID="110" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="262" DmxU="0" />
+    <Fx ID="111" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="265" DmxU="0" />
+    <Fx ID="112" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="268" DmxU="0" />
+    <Fx ID="113" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="271" DmxU="0" />
+    <Fx ID="114" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="274" DmxU="0" />
+    <Fx ID="115" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="277" DmxU="0" />
+    <Fx ID="116" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="280" DmxU="0" />
+    <Fx ID="117" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="283" DmxU="0" />
+    <Fx ID="118" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="286" DmxU="0" />
+    <Fx ID="119" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="289" DmxU="0" />
+    <Fx ID="120" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="292" DmxU="0" />
+    <Fx ID="121" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="295" DmxU="0" />
+    <Fx ID="122" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="298" DmxU="0" />
+    <Fx ID="123" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="301" DmxU="0" />
+    <Fx ID="124" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="304" DmxU="0" />
+    <Fx ID="125" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="307" DmxU="0" />
+    <Fx ID="126" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="310" DmxU="0" />
+    <Fx ID="127" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="313" DmxU="0" />
+    <Fx ID="128" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="316" DmxU="0" />
+    <Fx ID="129" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="319" DmxU="0" />
+    <Fx ID="130" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="322" DmxU="0" />
+    <Fx ID="131" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="325" DmxU="0" />
+    <Fx ID="132" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="328" DmxU="0" />
+    <Fx ID="133" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="331" DmxU="0" />
+    <Fx ID="134" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="334" DmxU="0" />
+    <Fx ID="135" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="337" DmxU="0" />
+    <Fx ID="136" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="340" DmxU="0" />
+    <Fx ID="137" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="343" DmxU="0" />
+    <Fx ID="138" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="346" DmxU="0" />
+    <Fx ID="139" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="349" DmxU="0" />
+    <Fx ID="140" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="352" DmxU="0" />
+    <Fx ID="141" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="355" DmxU="0" />
+    <Fx ID="142" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="358" DmxU="0" />
+    <Fx ID="143" LibName="_GENERIC\RGB.SSL2" Mode="0" DmxA="361" DmxU="0" />
+    <Fx ID="228" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="364" DmxU="0" />
+  </Fxs>
+  <VisuDmx _VisuDmxAllFxNameShow="2" _VisuDmxAllFxNameFontCustom="0" _VisuDmxAllFxNameFontclrCustom="0" _VisuDmxAllFxNameZoneclrCustom="0" _VisuDmxAllFxChannelsNameShow="2" _VisuDmxAllFxChannelsNameFontCustom="0" _VisuDmxAllFxChannelsNameFontclrCustom="0" _VisuDmxAllFxChannelsNameZoneclrCustom="0" _VisuDmxAllFxPresetsImageShow="2">
+    <_VisuDmxAllFxNameFont lfHeight="12" lfWidth="0" lfEscapement="0" lfOrientation="0" lfWeight="400" lfItalic="0" lfUnderline="0" lfStrikeOut="0" lfCharSet="1" lfOutPrecision="0" lfClipPrecision="0" lfQuality="0" lfPitchAndFamily="32" lfFaceName="Arial" />
+    <_VisuDmxAllFxNameFontclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+    <_VisuDmxAllFxNameZoneclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+    <_VisuDmxAllFxChannelsNameFont lfHeight="12" lfWidth="0" lfEscapement="0" lfOrientation="0" lfWeight="400" lfItalic="0" lfUnderline="0" lfStrikeOut="0" lfCharSet="1" lfOutPrecision="0" lfClipPrecision="0" lfQuality="0" lfPitchAndFamily="32" lfFaceName="Arial" />
+    <_VisuDmxAllFxChannelsNameFontclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+    <_VisuDmxAllFxChannelsNameZoneclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+  </VisuDmx>
+</Page>

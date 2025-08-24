@@ -1,0 +1,151 @@
+<Page Author="dylan" Version="1.0">
+  <Global InMaster="1" DmxSend="1" Freeze="0" Lock="0" SceneFadeManual="0" SceneFadeEnable="1" Icon="" ID="115" Currentlayer="0" ShowTab="0" Zoom="1" Image="" ImageCoef="100">
+    <Shortcut Key="0" Flag="1" />
+    <ShortcutFreeze Key="0" Flag="1" />
+    <ShortcutSendDmx Key="0" Flag="1" />
+  </Global>
+  <Lock AskPassword="0" PageRename="0" PageDelete="0" PageSettings="0" PageExport="0" PageFreeze="0" PageDmx="0" PageLock="0" PageAddInMaster="0" FxLiveMode="0" FxEmbeddedMode="0" FxAddEditDeleteRenameGroup="0" FxMove="0" Dimmer="0" Speed="0" ButtonsLayersChange="0" ButtonsLayersModif="0" ButtonsLayerOrder="0" ButtonsActivation="0" ButtonsOrder="1" ButtonsCreate="1" ButtonsEdit="1" ButtonsSettings="1" ButtonsRename="1" ButtonsDelete="1" ButtonsLinkKeyboard="1" ButtonsDimmer="0" ButtonsSpeed="0" ButtonsPhasing="0" ButtonsSize="0" />
+  <SwitchBeamOn Switch="DIMMER INTENSITY" />
+  <SwitchBeamOff Switch="DIMMER INTENSITY" />
+  <Group Name="1, 3, 5...">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="159" IdBeam="-1" />
+    <Fx ID="161" IdBeam="-1" />
+    <Fx ID="163" IdBeam="-1" />
+    <Fx ID="165" IdBeam="-1" />
+    <Fx ID="167" IdBeam="-1" />
+    <Fx ID="169" IdBeam="-1" />
+    <Fx ID="171" IdBeam="-1" />
+    <Fx ID="173" IdBeam="-1" />
+    <Fx ID="175" IdBeam="-1" />
+    <Fx ID="177" IdBeam="-1" />
+    <Fx ID="179" IdBeam="-1" />
+    <Fx ID="181" IdBeam="-1" />
+    <Fx ID="183" IdBeam="-1" />
+    <Fx ID="185" IdBeam="-1" />
+    <Fx ID="187" IdBeam="-1" />
+    <Fx ID="189" IdBeam="-1" />
+    <Fx ID="191" IdBeam="-1" />
+    <Fx ID="193" IdBeam="-1" />
+    <Fx ID="195" IdBeam="-1" />
+    <Fx ID="197" IdBeam="-1" />
+    <Fx ID="199" IdBeam="-1" />
+    <Fx ID="201" IdBeam="-1" />
+    <Fx ID="203" IdBeam="-1" />
+    <Fx ID="205" IdBeam="-1" />
+    <Fx ID="207" IdBeam="-1" />
+    <Fx ID="209" IdBeam="-1" />
+    <Fx ID="211" IdBeam="-1" />
+    <Fx ID="213" IdBeam="-1" />
+  </Group>
+  <Group Name="2, 4, 6...">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="160" IdBeam="-1" />
+    <Fx ID="162" IdBeam="-1" />
+    <Fx ID="164" IdBeam="-1" />
+    <Fx ID="166" IdBeam="-1" />
+    <Fx ID="168" IdBeam="-1" />
+    <Fx ID="170" IdBeam="-1" />
+    <Fx ID="172" IdBeam="-1" />
+    <Fx ID="174" IdBeam="-1" />
+    <Fx ID="176" IdBeam="-1" />
+    <Fx ID="178" IdBeam="-1" />
+    <Fx ID="180" IdBeam="-1" />
+    <Fx ID="182" IdBeam="-1" />
+    <Fx ID="184" IdBeam="-1" />
+    <Fx ID="186" IdBeam="-1" />
+    <Fx ID="188" IdBeam="-1" />
+    <Fx ID="190" IdBeam="-1" />
+    <Fx ID="192" IdBeam="-1" />
+    <Fx ID="194" IdBeam="-1" />
+    <Fx ID="196" IdBeam="-1" />
+    <Fx ID="198" IdBeam="-1" />
+    <Fx ID="200" IdBeam="-1" />
+    <Fx ID="202" IdBeam="-1" />
+    <Fx ID="204" IdBeam="-1" />
+    <Fx ID="206" IdBeam="-1" />
+    <Fx ID="208" IdBeam="-1" />
+    <Fx ID="210" IdBeam="-1" />
+    <Fx ID="212" IdBeam="-1" />
+    <Fx ID="214" IdBeam="-1" />
+  </Group>
+  <Group Name="rezhim">
+    <Shortcut Key="0" Flag="1" />
+    <Fx ID="159" IdBeam="0" />
+    <Fx ID="166" IdBeam="0" />
+    <Fx ID="173" IdBeam="0" />
+    <Fx ID="180" IdBeam="0" />
+    <Fx ID="187" IdBeam="0" />
+    <Fx ID="194" IdBeam="0" />
+    <Fx ID="201" IdBeam="0" />
+    <Fx ID="208" IdBeam="0" />
+  </Group>
+  <Compress Name="Shutter" SwitchOneIsOn="0" Sort="0" ModeApplication="Switch" Type="Icon" Icon="" PX="0" PY="0" SX="0" SY="0" Flag="36" />
+  <Compress Name="Dimmer" SwitchOneIsOn="0" Sort="0" ModeApplication="Switch" Type="Icon" Icon="" PX="0" PY="0" SX="0" SY="0" Flag="36" />
+  <Fxs>
+    <Fx ID="159" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="400" DmxU="0" />
+    <Fx ID="160" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="401" DmxU="0" />
+    <Fx ID="161" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="402" DmxU="0" />
+    <Fx ID="162" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="403" DmxU="0" />
+    <Fx ID="163" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="404" DmxU="0" />
+    <Fx ID="164" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="405" DmxU="0" />
+    <Fx ID="165" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="406" DmxU="0" />
+    <Fx ID="166" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="407" DmxU="0" />
+    <Fx ID="167" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="408" DmxU="0" />
+    <Fx ID="168" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="409" DmxU="0" />
+    <Fx ID="169" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="410" DmxU="0" />
+    <Fx ID="170" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="411" DmxU="0" />
+    <Fx ID="171" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="412" DmxU="0" />
+    <Fx ID="172" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="413" DmxU="0" />
+    <Fx ID="173" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="414" DmxU="0" />
+    <Fx ID="174" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="415" DmxU="0" />
+    <Fx ID="175" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="416" DmxU="0" />
+    <Fx ID="176" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="417" DmxU="0" />
+    <Fx ID="177" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="418" DmxU="0" />
+    <Fx ID="178" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="419" DmxU="0" />
+    <Fx ID="179" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="420" DmxU="0" />
+    <Fx ID="180" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="421" DmxU="0" />
+    <Fx ID="181" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="422" DmxU="0" />
+    <Fx ID="182" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="423" DmxU="0" />
+    <Fx ID="183" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="424" DmxU="0" />
+    <Fx ID="184" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="425" DmxU="0" />
+    <Fx ID="185" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="426" DmxU="0" />
+    <Fx ID="186" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="427" DmxU="0" />
+    <Fx ID="187" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="428" DmxU="0" />
+    <Fx ID="188" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="429" DmxU="0" />
+    <Fx ID="189" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="430" DmxU="0" />
+    <Fx ID="190" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="431" DmxU="0" />
+    <Fx ID="191" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="432" DmxU="0" />
+    <Fx ID="192" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="433" DmxU="0" />
+    <Fx ID="193" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="434" DmxU="0" />
+    <Fx ID="194" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="435" DmxU="0" />
+    <Fx ID="195" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="436" DmxU="0" />
+    <Fx ID="196" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="437" DmxU="0" />
+    <Fx ID="197" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="438" DmxU="0" />
+    <Fx ID="198" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="439" DmxU="0" />
+    <Fx ID="199" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="440" DmxU="0" />
+    <Fx ID="200" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="441" DmxU="0" />
+    <Fx ID="201" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="442" DmxU="0" />
+    <Fx ID="202" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="443" DmxU="0" />
+    <Fx ID="203" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="444" DmxU="0" />
+    <Fx ID="204" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="445" DmxU="0" />
+    <Fx ID="205" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="446" DmxU="0" />
+    <Fx ID="206" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="447" DmxU="0" />
+    <Fx ID="207" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="448" DmxU="0" />
+    <Fx ID="208" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="449" DmxU="0" />
+    <Fx ID="209" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="450" DmxU="0" />
+    <Fx ID="210" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="451" DmxU="0" />
+    <Fx ID="211" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="452" DmxU="0" />
+    <Fx ID="212" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="453" DmxU="0" />
+    <Fx ID="213" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="454" DmxU="0" />
+    <Fx ID="214" LibName="_GENERIC\PAR 36.SSL2" Mode="0" DmxA="455" DmxU="0" />
+  </Fxs>
+  <VisuDmx _VisuDmxAllFxNameShow="2" _VisuDmxAllFxNameFontCustom="0" _VisuDmxAllFxNameFontclrCustom="0" _VisuDmxAllFxNameZoneclrCustom="0" _VisuDmxAllFxChannelsNameShow="2" _VisuDmxAllFxChannelsNameFontCustom="0" _VisuDmxAllFxChannelsNameFontclrCustom="0" _VisuDmxAllFxChannelsNameZoneclrCustom="0" _VisuDmxAllFxPresetsImageShow="2">
+    <_VisuDmxAllFxNameFont lfHeight="12" lfWidth="0" lfEscapement="0" lfOrientation="0" lfWeight="400" lfItalic="0" lfUnderline="0" lfStrikeOut="0" lfCharSet="1" lfOutPrecision="0" lfClipPrecision="0" lfQuality="0" lfPitchAndFamily="32" lfFaceName="Arial" />
+    <_VisuDmxAllFxNameFontclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+    <_VisuDmxAllFxNameZoneclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+    <_VisuDmxAllFxChannelsNameFont lfHeight="12" lfWidth="0" lfEscapement="0" lfOrientation="0" lfWeight="400" lfItalic="0" lfUnderline="0" lfStrikeOut="0" lfCharSet="1" lfOutPrecision="0" lfClipPrecision="0" lfQuality="0" lfPitchAndFamily="32" lfFaceName="Arial" />
+    <_VisuDmxAllFxChannelsNameFontclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+    <_VisuDmxAllFxChannelsNameZoneclrArray data0="-1" data1="-1" data2="-1" data3="-1" data4="-1" data5="-1" data6="-1" data7="-1" data8="-1" data9="-1" />
+  </VisuDmx>
+</Page>

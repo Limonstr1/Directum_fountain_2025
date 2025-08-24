@@ -1,0 +1,11 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="I N I T" Index="0" />
+    <Button Name="+45" Index="1" />
+    <Button Name="-45" Index="2" />
+    <Button Name="1sec" Index="3" />
+    <Button Name="90" Index="4" />
+    <Button Name="rezhim119" Index="5" />
+    <Button Name="gubanov_1_20_1_25_fountain" Index="6" />
+  </Zone>
+</ZoneParam>
