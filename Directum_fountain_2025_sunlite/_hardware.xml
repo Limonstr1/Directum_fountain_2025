@@ -1,0 +1,5 @@
+<Hardware Author="dylan" Version="1.0">
+  <Interface Type="4" AutoDetection="1" Serial="-1" DmxU="0" DmxU2="1" DmxU3="0" DMXUModeOut="0" DMXUModeOut2="1" DMXUModeOut3="1" IpAddress="255.255.255.10" />
+  <Interface Type="6" Artnet="0" DmxU="0" DMXUModeOut="0" />
+  <Interface Type="6" Artnet="1" DmxU="0" DMXUModeOut="1" />
+</Hardware>

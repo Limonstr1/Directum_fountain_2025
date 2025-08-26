@@ -1,0 +1,8 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="STOP" Index="0" />
+    <Button Name="STATIC" Index="1" />
+    <Button Name="I N I T" Index="4" />
+    <Button Name="SWITCH" Index="-1" />
+  </Zone>
+</ZoneParam>

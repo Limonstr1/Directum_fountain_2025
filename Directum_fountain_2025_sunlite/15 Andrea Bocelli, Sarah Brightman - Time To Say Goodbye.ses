@@ -1,0 +1,45 @@
+<EasyShow author="dylan" version="1.0">
+  <global AutoSave="0" loop="0" play_at_the_begining="1" stop_on_break="1" show_audio="1" show_movie="0" show_cd="1" draw_mode="0" enable_history="1" Synchro="0" MidiInId="-1" MidiInName="" MidiOutId="-1" MidiOutName="" MidiOutFrameRates="1" MIDI_OUT="0" MIDI_play_in_zone="0" MIDI_offset_zone="0" MIDI_offset="0" />
+  <bin>
+    <general_bin name="Bin 1">
+      <file folder="C:\SunliteSuite2\Multimedia\Igevsk\" name="15 Andrea Bocelli, Sarah Brightman - Time To Say Goodbye.wav" />
+    </general_bin>
+    <light_data name="_MASTER">
+      <file folder="_MASTER" name="15 Time to say goodbye" type="12" />
+    </light_data>
+    <light_data name="RGB">
+      <file folder="RGB" name="Fonari" type="12" />
+    </light_data>
+  </bin>
+  <time_line total_time="24480" starting_play_time="0" ending_play_time="24480">
+    <tl_audio name="Audio" enable="1" lock="0" mute="0">
+      <button name="15 Andrea Bocelli, Sarah Brightman - Time To Say Goodbye.wav" type="17" position="60" size="24327">
+        <sound position="0" level="512" />
+        <sound position="24327" level="512" />
+      </button>
+    </tl_audio>
+    <tl_movie name="Video" enable="1" lock="0" mute="0" />
+    <tl_light_data name="_MASTER">
+      <scene enable="1" lock="0" />
+      <switch enable="1" lock="0">
+        <button name="15 Time to say goodbye" type="12" position="0" size="24480" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="24480" level="512" />
+          <speed position="0" level="256" />
+          <speed position="24480" level="256" />
+        </button>
+      </switch>
+    </tl_light_data>
+    <tl_light_data name="RGB">
+      <scene enable="1" lock="0" />
+      <switch enable="1" lock="0">
+        <button name="Fonari" type="12" position="0" size="24480" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="24480" level="512" />
+          <speed position="0" level="256" />
+          <speed position="24480" level="256" />
+        </button>
+      </switch>
+    </tl_light_data>
+  </time_line>
+</EasyShow>

@@ -1,0 +1,201 @@
+<EasyShow author="dylan" version="1.0">
+  <global AutoSave="0" loop="0" play_at_the_begining="0" stop_on_break="1" show_audio="1" show_movie="1" show_cd="1" draw_mode="0" enable_history="1" Synchro="0" MidiInId="-1" MidiInName="" MidiOutId="-1" MidiOutName="" MidiOutFrameRates="1" MIDI_OUT="0" MIDI_play_in_zone="0" MIDI_offset_zone="0" MIDI_offset="0" />
+  <bin>
+    <general_bin name="Bin 1">
+      <file folder="P:\download\" name="Powerglove-Tetris-world79.spcs.bio[rebalanced].wav" />
+      <file folder="E:\ÔÎÍÒÀÍÛ\pt2\" name="Cutted_Powerglove-Tetris-world79.spcs.bio.wav" />
+    </general_bin>
+    <light_data name="_MASTER">
+      <file folder="_MASTER" name="I N I T" type="14" />
+      <file folder="_MASTER" name="25_RGB_BOOM" type="15" />
+      <file folder="_MASTER" name="Chase fade" type="15" />
+      <file folder="_MASTER" name="squares15_blinking" type="15" />
+      <file folder="_MASTER" name="squares26_blinking" type="15" />
+      <file folder="_MASTER" name="squares34_blinking" type="15" />
+      <file folder="_MASTER" name="25-36 verh volna" type="15" />
+      <file folder="_MASTER" name="25-36 niz volna" type="15" />
+      <file folder="_MASTER" name="25-36 rotating" type="15" />
+      <file folder="_MASTER" name="25-36 bukety" type="15" />
+      <file folder="_MASTER" name="25-36 main" type="15" />
+      <file folder="_MASTER" name="25-36 tyman" type="15" />
+      <file folder="_MASTER" name="25-26 rgb lines" type="15" />
+      <file folder="_MASTER" name="ALL BLUE" type="15" />
+      <file folder="_MASTER" name="ALL GREEN" type="15" />
+      <file folder="_MASTER" name="ALL RED" type="15" />
+      <file folder="_MASTER" name="Real Tetris" type="15" />
+      <file folder="_MASTER" name="egor1" type="15" />
+    </light_data>
+    <light_data name="RGB">
+      <file folder="RGB" name="Fonari" type="15" />
+    </light_data>
+    <light_data name="ARC">
+      <file folder="ARC" name="rezhim119" type="15" />
+    </light_data>
+    <light_data name="PAR 64">
+      <file folder="PAR 64" name="7 Lebedi" type="15" />
+    </light_data>
+  </bin>
+  <time_line total_time="17364" starting_play_time="150" ending_play_time="12089">
+    <tl_audio name="Audio" enable="1" lock="0" mute="1">
+      <button name="Cutted_Powerglove-Tetris-world79.spcs.bio.wav" type="17" position="0" size="11494">
+        <sound position="0" level="512" />
+        <sound position="11494" level="512" />
+      </button>
+    </tl_audio>
+    <tl_movie name="Video" enable="1" lock="0" mute="0" />
+    <tl_light_data name="_MASTER">
+      <scene enable="1" lock="0" />
+      <switch enable="1" lock="0">
+        <button name="25-36 verh volna" type="15" position="152" size="1194" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1194" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1194" level="256" />
+        </button>
+        <button name="egor1" type="15" position="1347" size="1151" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1151" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1151" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="25-26 rgb lines" type="15" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="squares15_blinking" type="15" position="3600" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="squares26_blinking" type="15" position="3600" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="squares34_blinking" type="15" position="3600" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="Real Tetris" type="15" position="153" size="592" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="592" level="512" />
+          <speed position="0" level="256" />
+          <speed position="592" level="256" />
+        </button>
+        <button name="Real Tetris" type="15" position="745" size="551" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="551" level="512" />
+          <speed position="0" level="256" />
+          <speed position="551" level="256" />
+        </button>
+        <button name="25-36 verh volna" type="15" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="25-36 niz volna" type="15" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="25-36 rotating" type="15" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="25-36 bukety" type="15" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="25-36 main" type="15" position="2497" size="1110" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1110" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1110" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="25-36 tyman" type="15" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0">
+        <button name="Chase fade" type="15" position="3600" size="1100" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="1100" level="512" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+    </tl_light_data>
+    <tl_light_data name="RGB">
+      <scene enable="1" lock="0" />
+      <switch enable="1" lock="0">
+        <button name="Fonari" type="15" position="5" size="17359" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="17359" level="512" />
+          <speed position="0" level="256" />
+          <speed position="17359" level="256" />
+        </button>
+      </switch>
+      <switch enable="1" lock="0" />
+    </tl_light_data>
+    <tl_light_data name="ARC">
+      <scene enable="1" lock="0" />
+      <switch enable="1" lock="0">
+        <button name="rezhim119" type="15" position="0" size="17364" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="17364" level="512" />
+          <speed position="0" level="256" />
+          <speed position="17364" level="256" />
+        </button>
+      </switch>
+    </tl_light_data>
+    <tl_light_data name="PAR 64">
+      <scene enable="1" lock="0" />
+      <switch enable="1" lock="1">
+        <button name="7 Lebedi" type="15" position="2500" size="1100" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="160" />
+          <dimmer position="232" level="437" />
+          <dimmer position="560" level="192" />
+          <dimmer position="830" level="480" />
+          <dimmer position="1100" level="309" />
+          <speed position="0" level="256" />
+          <speed position="1100" level="256" />
+        </button>
+      </switch>
+    </tl_light_data>
+  </time_line>
+</EasyShow>

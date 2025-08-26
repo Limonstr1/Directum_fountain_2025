@@ -1,0 +1,9 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="REZHIM" Index="-2" />
+    <Button Name="REZHIM" Index="-2" />
+    <Button Name="EMUL" Index="-2" />
+    <Button Name="RESET" Index="-2" />
+    <Button Name="LEBEDI 1" Index="-2" />
+  </Zone>
+</ZoneParam>

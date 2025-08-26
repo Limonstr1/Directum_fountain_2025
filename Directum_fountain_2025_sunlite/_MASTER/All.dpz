@@ -1,0 +1,77 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="I N I T" Index="0" />
+    <Button Name="321 INFERNO V2" Index="1" />
+    <Button Name="350 MIODZAKI" Index="2" />
+    <Button Name="321 INFERNO" Index="3" />
+    <Button Name="330 MATUSHKA ZEMLYA ZANGARI" Index="4" />
+    <Button Name="319 GRISSHMAKOV" Index="5" />
+    <Button Name="315 EARTH SONG" Index="6" />
+    <Button Name="312 ROYAL BLOOD" Index="7" />
+    <Button Name="303 TRANSFORMERS" Index="8" />
+    <Button Name="310 GEFION" Index="9" />
+    <Button Name="309 UP IS DOWN" Index="10" />
+    <Button Name="314 GOT MAIN TITLES" Index="11" />
+    <Button Name="311 LORD AND MASTER" Index="12" />
+    <Button Name="301 EYE OF UNTOLD" Index="13" />
+    <Button Name="308 SITEK" Index="14" />
+    <Button Name="307 BIT MASTER" Index="15" />
+    <Button Name="302 BILLIE JEAN" Index="16" />
+    <Button Name="305 IZHGTU" Index="17" />
+    <Button Name="316 SHAMAN" Index="18" />
+    <Button Name="304 LE VENT LE CRI" Index="19" />
+    <Button Name="306 PROSTO" Index="20" />
+    <Button Name="313 ROZA FA" Index="21" />
+    <Button Name="999 IMPACT CENTER" Index="22" />
+    <Button Name="999 PROIGRISH" Index="23" />
+    <Button Name="SCENE 1" Index="24" />
+    <Button Name="SCENE" Index="25" />
+    <Button Name="01 SYMPHONY 5" Index="26" />
+    <Button Name="02 SCHELKUNCHIK" Index="27" />
+    <Button Name="03 SYMPHONY 6" Index="28" />
+    <Button Name="04 SERENADA" Index="29" />
+    <Button Name="05 ELOVI LES ZIMOI" Index="30" />
+    <Button Name="06 TREPAK" Index="31" />
+    <Button Name="07 KRASAVICA" Index="32" />
+    <Button Name="08 HOOKED TO CHAYKOVSKY" Index="33" />
+    <Button Name="09 POLONEZ ONEGIN" Index="34" />
+    <Button Name="10 POLONEZ SWAN LAKE" Index="35" />
+    <Button Name="11 CONFITURENBOURG CASTLE" Index="36" />
+    <Button Name="12 VALS CVETOV" Index="37" />
+    <Button Name="13 SWAN LAKE MAZURKA" Index="38" />
+    <Button Name="14 MARSH SHCELKUNCHIK" Index="39" />
+    <Button Name="15 TIME TO SAY GOODBYE" Index="40" />
+    <Button Name="16 CAN CAN" Index="41" />
+    <Button Name="17 USATI NYAN" Index="42" />
+    <Button Name="20 SKRILLEX" Index="43" />
+    <Button Name="21 LINDSEY STIRLING" Index="44" />
+    <Button Name="22 QUEEN SHOW MUST GO ON" Index="45" />
+    <Button Name="23 IMPERIA MARCH" Index="46" />
+    <Button Name="24 DAUGHTER FLAWS" Index="47" />
+    <Button Name="25 KISH LESNIK" Index="48" />
+    <Button Name="26 DECRAS FROM THE DARK" Index="49" />
+    <Button Name="28 VALS LASKOVIY ZVER" Index="50" />
+    <Button Name="DETSKY 2" Index="51" />
+    <Button Name="DETSKY" Index="52" />
+    <Button Name="DYNAMIC" Index="53" />
+    <Button Name="FANFARI" Index="54" />
+    <Button Name="FULL" Index="55" />
+    <Button Name="RECORD" Index="56" />
+    <Button Name="STATIC" Index="57" />
+    <Button Name="STOP" Index="58" />
+    <Button Name="999 INTRO" Index="59" />
+    <Button Name="999 INTRO PART 2" Index="60" />
+    <Button Name="999 INTRO PART 3 TWIST" Index="61" />
+    <Button Name="999 INTRO RED PULSE" Index="62" />
+    <Button Name="999 INTRO PART 3 ARC" Index="63" />
+    <Button Name="27 ROXETTE LISTEN TO YOUR HEART" Index="64" />
+    <Button Name="02 BOOM" Index="-2" />
+    <Button Name="03 BOOM" Index="-2" />
+    <Button Name="04 BOOM RGB 3" Index="-2" />
+    <Button Name="04 BOOM RGB 4+8" Index="-2" />
+    <Button Name="04 BOOM RGB ALL" Index="-2" />
+    <Button Name="SQUARES24_BLINKING" Index="-2" />
+    <Button Name="ALL GREEN" Index="-2" />
+    <Button Name="ALL BLUE" Index="-2" />
+  </Zone>
+</ZoneParam>

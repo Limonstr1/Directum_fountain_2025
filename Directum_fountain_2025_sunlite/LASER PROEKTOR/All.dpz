@@ -1,0 +1,13 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="LASER" Index="-2" />
+    <Button Name="03 KIZINIK" Index="-2" />
+    <Button Name="04 KAZINIK 2" Index="-2" />
+    <Button Name="04 KAZINIK 3" Index="-2" />
+    <Button Name="04 KAZINIK 4" Index="-2" />
+    <Button Name="07 IGEVSK" Index="-2" />
+    <Button Name="08 ABSTR" Index="-2" />
+    <Button Name="09 INVEST" Index="-2" />
+    <Button Name="10 LAZER 2" Index="-2" />
+  </Zone>
+</ZoneParam>

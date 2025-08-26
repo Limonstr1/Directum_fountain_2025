@@ -1,0 +1,6 @@
+<ZoneParam Author="dylan" Version="1.0">
+  <Zone Type="0" ID="200">
+    <Button Name="REZHIM119" Index="-2" />
+    <Button Name="1" Index="-2" />
+  </Zone>
+</ZoneParam>
