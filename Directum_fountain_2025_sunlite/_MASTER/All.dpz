@@ -75,5 +75,7 @@
     <Button Name="ALL BLUE" Index="-2" />
     <Button Name="02 BOOM" Index="-2" />
     <Button Name="03 BOOM" Index="-2" />
+    <Button Name="04 BOOM RGB 3" Index="-2" />
+    <Button Name="04 BOOM RGB 4+8" Index="-2" />
   </Zone>
 </ZoneParam>
