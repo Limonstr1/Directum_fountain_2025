@@ -8,6 +8,7 @@
   <SwitchOn>
     <Switch Page="ARC" Name="rezhim119" />
     <Switch Page="RGB" Name="Fonari" />
+    <Switch Name="01 BOOM" />
   </SwitchOn>
   <Group Name="N1">
     <Shortcut Key="0" Flag="1" />

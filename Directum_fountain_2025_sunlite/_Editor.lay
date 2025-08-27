@@ -17,12 +17,12 @@
 		<Pane-13 Type="2" DockingCX="1366" DockingCY="700" Horiz="1" Panes="2" Pane-1="14" Pane-2="15"/>
 		<Pane-14 Type="4"/>
 		<Pane-15 Type="2" DockingCX="484" DockingCY="868" Panes="1" Pane-1="16"/>
-		<Pane-16 Type="1" DockingCX="200" DockingCY="372" Panes="3" Selected="6" Pane-1="4" Pane-2="6" Pane-3="8"/>
+		<Pane-16 Type="1" DockingCX="200" DockingCY="372" Panes="3" Selected="4" Pane-1="4" Pane-2="6" Pane-3="8"/>
 		<Pane-17 Type="2" DockingCX="1172" DockingCY="421" Horiz="1" Panes="3" Pane-1="18" Pane-2="19" Pane-3="20"/>
 		<Pane-18 Type="1" DockingCX="509" DockingCY="478" Panes="0"/>
 		<Pane-19 Type="1" DockingCX="709" DockingCY="120" Panes="1" Selected="5" Pane-1="5"/>
 		<Pane-20 Type="1" DockingCX="459" DockingCY="120" Panes="0"/>
 	</Common>
 	<DockFixtures DrawIris="1" DrawGobo="1" ZoomFixture="225" ShowFixtureBeam="1" ShowFixtureName="0"/>
-	<PosFrame x="-2409" y="-9" cx="2418" cy="1308"/>
+	<PosFrame x="-8" y="-8" cx="1936" cy="1048"/>
 </DockingPaneLayouts>
