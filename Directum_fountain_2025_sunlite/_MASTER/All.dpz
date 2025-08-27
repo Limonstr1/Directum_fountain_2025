@@ -73,5 +73,6 @@
     <Button Name="SQUARES24_BLINKING" Index="-2" />
     <Button Name="ALL GREEN" Index="-2" />
     <Button Name="ALL BLUE" Index="-2" />
+    <Button Name="02 BOOM" Index="-2" />
   </Zone>
 </ZoneParam>
