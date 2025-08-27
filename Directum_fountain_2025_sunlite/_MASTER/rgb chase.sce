@@ -2,7 +2,7 @@
   <Multimedia File="" SX="0" SY="0" Loop="0" TimeStart="-1" TimeEnd="-1" StopWhenOtherStart="1" />
   <EasyShow State="0" Command="0" BreakPoint="" File="" />
   <Editor EasyTimeZoom="8" EasyTimeShowIcon="0" EasyTimeCompressColorXY="1" EasyTimeShowSelected="0" EasyTimeCompress="0" EasyTimeMagnetism="1" EasyTimeMagnetismValue="100" FixturesShowBeam="1" EasyTimeModeTempo="0" EasyTimeModeTempoFade="1" EasyTimeModeTempoPulse="0" EasyTimeMesures="1" EasyTimeMesureTimer="25" />
-  <Switch WorkingType="0" AutoRelease="1" ReleaseOnDblClick="1" DoLimitedTime="0" LimitedTime="100" AllwaysOn="0" DoFade="0" FadePlaySeq="0" FadeTime="100" />
+  <Switch WorkingType="0" AutoRelease="1" ReleaseOnDblClick="1" DoLimitedTime="0" LimitedTime="100" AllwaysOn="0" DoFade="1" FadePlaySeq="0" FadeTime="100" />
   <Scene DoFade="0" FadeSpeedReset="1" FadePlaySeq="0" FadeTimeBeforeUp="0" FadeTimeUp="500" FadeTimeBeforeDown="0" FadeTimeDown="500" DoFadePause="0" />
   <EasyStep Loop="1" ModeAvanceLecture="0" AvanceLectureFade="1" NbStep="1">
     <Time Fade="0" Wait="25" />
@@ -179,1496 +179,1496 @@
     <Fx ID="55" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="215" LibName="_GENERIC\RGBD.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="0" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="0" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="0" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="57" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="1" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="1" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="1" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="58" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="2" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="2" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="2" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="59" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="3" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="3" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="3" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="60" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="4" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="4" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="4" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="61" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="5" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="5" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="5" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="62" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="6" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="6" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="6" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="63" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="7" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="7" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="7" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="64" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="8" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="8" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="8" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="65" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="9" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="9" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="9" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="66" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="10" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="10" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="10" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="67" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="11" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="11" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="11" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="68" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="12" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="12" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="12" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="69" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="13" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="13" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="13" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="70" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="14" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="14" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="14" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="71" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="15" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="15" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="15" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="72" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="16" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="16" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="16" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="73" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="17" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="17" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="17" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="74" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="18" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="18" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="18" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="75" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="19" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="19" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="19" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="76" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="20" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="20" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="20" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="77" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="21" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="21" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="21" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="78" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="22" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="22" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="22" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="79" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="23" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="23" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="23" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="80" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="24" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="24" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="24" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="81" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="25" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="25" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="25" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="82" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="26" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="26" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="26" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="83" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="27" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="27" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="27" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="84" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="28" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="28" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="28" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="85" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="29" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="29" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="29" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="86" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="30" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="30" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="30" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="87" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="31" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="31" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="31" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="88" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="32" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="32" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="32" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="89" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="33" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="33" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="33" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="90" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="34" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="34" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="34" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="91" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="35" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="35" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="35" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="92" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="36" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="36" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="36" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="93" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="37" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="37" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="37" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="94" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="38" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="38" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="38" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="95" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="39" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="39" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="39" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="96" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="40" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="40" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="40" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="97" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="41" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="41" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="41" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="98" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="42" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="42" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="42" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="99" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="43" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="43" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="43" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="100" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="44" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="44" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="44" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="101" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="45" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="45" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="45" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="102" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="46" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="46" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="46" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="103" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="47" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="47" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="47" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="104" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="48" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="48" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="48" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="105" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="49" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="49" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="49" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="106" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="50" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="50" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="50" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="107" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="51" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="51" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="51" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="108" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="52" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="52" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="52" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="109" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="53" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="53" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="53" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="110" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="54" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="54" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="54" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="111" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="55" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="55" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="55" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="112" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="56" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="56" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="56" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="113" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="57" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="57" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="57" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="114" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="58" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="58" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="58" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="115" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="59" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="59" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="59" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="116" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="60" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="60" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="60" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="117" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="61" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="61" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="61" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="118" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="62" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="62" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="62" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="119" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="63" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="63" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="63" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="120" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="64" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="64" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="64" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="121" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="65" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="65" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="65" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="122" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="66" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="66" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="66" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="123" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="67" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="67" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="67" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="124" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="68" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="68" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="68" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="125" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="69" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="69" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="69" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="126" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="70" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="70" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="70" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="127" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="71" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="71" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="71" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="128" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="72" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="72" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="72" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="129" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="73" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="73" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="73" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="130" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="74" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="74" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="74" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="131" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="75" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="75" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="75" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="132" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="76" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="76" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="76" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="133" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="77" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="77" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="77" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="134" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="78" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="78" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="78" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="135" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="79" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="79" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="79" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="136" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="80" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="80" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="80" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="137" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="81" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="81" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="81" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="138" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="82" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="82" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="82" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="139" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="83" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="83" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="83" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="140" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="84" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="84" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="90" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="186" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="84" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff5a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c6661000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="141" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="85" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="85" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="230" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="145" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="85" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffe6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ec000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="142" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="86" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="86" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="83" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="159" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="86" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bff535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9d3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a000000ffff" />
         </EasyTime>
       </Ch>
     </Fx>
     <Fx ID="143" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="87" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="3" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="87" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c6260a03d00000000ffff" />
         </EasyTime>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="3" L="211" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="3" L="162" LMD="0">
         <EasyTime Loop="1" Bg="0" iBg="0">
           <Block Type="1" InGroupRect="0" EffectManagerIndex="0" IndexPixel="87" Time="0" Duree="400" AutoGradiant="0" Min="0" Max="255" EffectName="" NbStep="100" Data="789c0064009bffd3ccc6bfbcb3aca69f99938c867f79736c665f59534c46424a535b636c747c8589919da6aeb6bfc7cfd8e0e8f1f9fdf7f2ece6e1dbd6d0cbc5bfbab4afa9a49e98938d88827d77716c66615a636c757e879099a2abb5bec7d0d9e2ebf4fdf9f3ece6dfd9000000ffff" />
         </EasyTime>
