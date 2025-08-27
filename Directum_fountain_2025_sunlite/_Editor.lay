@@ -12,8 +12,8 @@
 		<Pane-8 Type="0" DockingCX="200" DockingCY="120" Title="DMX input" ID="107" Options="6" DockingHolder="16" LastHolder="16" MinTrackX="175" MinTrackY="170"/>
 		<Pane-9 Type="0" DockingCX="200" DockingCY="120" Title="Follow spot" ID="108" Options="6" DockingHolder="16" LastHolder="16" MinTrackX="250" MinTrackY="250"/>
 		<Pane-10 Type="2" DockingCX="1920" DockingCY="586" Horiz="1" Panes="2" Pane-1="11" Pane-2="12"/>
-		<Pane-11 Type="1" DockingCX="956" DockingCY="386" Panes="1" Selected="1" Pane-1="1"/>
-		<Pane-12 Type="2" DockingCX="960" DockingCY="1125" Panes="2" Pane-1="13" Pane-2="17"/>
+		<Pane-11 Type="1" DockingCX="955" DockingCY="386" Panes="1" Selected="1" Pane-1="1"/>
+		<Pane-12 Type="2" DockingCX="961" DockingCY="1125" Panes="2" Pane-1="13" Pane-2="17"/>
 		<Pane-13 Type="2" DockingCX="1366" DockingCY="700" Horiz="1" Panes="2" Pane-1="14" Pane-2="15"/>
 		<Pane-14 Type="4"/>
 		<Pane-15 Type="2" DockingCX="484" DockingCY="868" Panes="1" Pane-1="16"/>
