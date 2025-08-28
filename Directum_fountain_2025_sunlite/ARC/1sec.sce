@@ -20,7 +20,7 @@
       </Ch>
     </Fx>
     <Fx ID="160" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -47,7 +47,7 @@
       </Ch>
     </Fx>
     <Fx ID="163" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -83,7 +83,7 @@
       </Ch>
     </Fx>
     <Fx ID="167" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -110,7 +110,7 @@
       </Ch>
     </Fx>
     <Fx ID="170" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -146,7 +146,7 @@
       </Ch>
     </Fx>
     <Fx ID="174" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -173,7 +173,7 @@
       </Ch>
     </Fx>
     <Fx ID="177" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -209,7 +209,7 @@
       </Ch>
     </Fx>
     <Fx ID="181" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -236,7 +236,7 @@
       </Ch>
     </Fx>
     <Fx ID="184" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -272,7 +272,7 @@
       </Ch>
     </Fx>
     <Fx ID="188" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -299,7 +299,7 @@
       </Ch>
     </Fx>
     <Fx ID="191" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -335,7 +335,7 @@
       </Ch>
     </Fx>
     <Fx ID="195" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -362,7 +362,7 @@
       </Ch>
     </Fx>
     <Fx ID="198" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -398,7 +398,7 @@
       </Ch>
     </Fx>
     <Fx ID="202" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -425,7 +425,7 @@
       </Ch>
     </Fx>
     <Fx ID="205" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -461,7 +461,7 @@
       </Ch>
     </Fx>
     <Fx ID="209" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -488,7 +488,7 @@
       </Ch>
     </Fx>
     <Fx ID="212" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />

@@ -169,13 +169,13 @@
       <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="2" L="255" LMD="0" />
     </Fx>
     <Fx ID="184" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="2" L="0" LMD="0" />
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="2" L="0" LMD="0" />
     </Fx>
     <Fx ID="185" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="2" L="6" LMD="0" />
     </Fx>
     <Fx ID="186" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="2" L="255" LMD="0" />
     </Fx>
   </Fxs>
   <DmxInRecorder />

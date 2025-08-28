@@ -4,68 +4,179 @@
   <Editor EasyTimeZoom="8" EasyTimeShowIcon="0" EasyTimeCompressColorXY="1" EasyTimeShowSelected="0" EasyTimeCompress="0" EasyTimeMagnetism="1" EasyTimeMagnetismValue="100" FixturesShowBeam="1" EasyTimeModeTempo="0" EasyTimeModeTempoFade="1" EasyTimeModeTempoPulse="0" EasyTimeMesures="1" EasyTimeMesureTimer="25" />
   <Switch WorkingType="0" AutoRelease="1" ReleaseOnDblClick="1" DoLimitedTime="0" LimitedTime="100" AllwaysOn="0" DoFade="0" FadePlaySeq="0" FadeTime="100" />
   <Scene DoFade="0" FadeSpeedReset="1" FadePlaySeq="0" FadeTimeBeforeUp="0" FadeTimeUp="500" FadeTimeBeforeDown="0" FadeTimeDown="500" DoFadePause="0" />
-  <EasyStep Loop="1" ModeAvanceLecture="0" AvanceLectureFade="1" NbStep="2">
-    <Time Fade="25" Wait="25" />
+  <EasyStep Loop="1" ModeAvanceLecture="0" AvanceLectureFade="1" NbStep="1">
     <Time Fade="0" Wait="25" />
   </EasyStep>
   <Fxs />
   <Fxs>
-    <Fx ID="159" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="160" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="161" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="162" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="163" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="164" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="165" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="166" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="167" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="168" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="169" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="170" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="171" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="172" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="173" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="174" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="175" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="176" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="177" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="178" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="179" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="180" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="181" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="182" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="183" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="184" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="185" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="186" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="187" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="188" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="189" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="190" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="191" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="192" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="193" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="194" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="195" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="196" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="197" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="198" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="199" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="200" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="201" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="202" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="203" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="204" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="205" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="206" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="207" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="208" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="209" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="210" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="211" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="212" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="213" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="214" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
+    <Fx ID="159" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="160" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="161" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="162" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="163" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="164" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="165" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="166" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="167" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="168" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="169" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="170" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="171" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="172" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="173" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="174" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="175" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="176" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="177" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="178" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="179" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="180" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="181" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="182" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="183" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="184" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="185" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="186" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="187" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="188" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="189" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="190" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="191" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="192" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="193" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="194" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="195" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="196" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="197" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="198" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="199" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="200" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="201" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="202" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="203" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="204" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="205" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="206" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="207" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="208" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="119" LMD="0" />
+    </Fx>
+    <Fx ID="209" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="210" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="211" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
+    <Fx ID="212" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="128" LMD="0" />
+    </Fx>
+    <Fx ID="213" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="6" LMD="0" />
+    </Fx>
+    <Fx ID="214" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" Rack="2" L="255" LMD="0" />
+    </Fx>
     <Fx ID="216" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="217" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="218" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
@@ -110,14 +221,7 @@
     <Fx ID="236" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="237" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="238" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="1" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-    </Fx>
+    <Fx ID="1" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="2" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="3" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="4" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
@@ -173,29 +277,7 @@
     <Fx ID="54" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="55" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="215" LibName="_GENERIC\RGBD.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="0" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="0" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="131" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="131" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-    </Fx>
+    <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="57" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="58" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="59" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />

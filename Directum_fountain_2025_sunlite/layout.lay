@@ -18,13 +18,13 @@
 		<Pane-14 Type="0" DockingCX="300" DockingCY="120" Title="people" ID="116" Options="18" DockingHolder="27" FloatingHolder="63" LastHolder="27" MinTrackX="154" MinTrackY="300"/>
 		<Pane-15 Type="0" DockingCX="300" DockingCY="120" Title="RGB" ID="112" Options="18" DockingHolder="20" FloatingHolder="72" LastHolder="20" MinTrackX="154" MinTrackY="300"/>
 		<Pane-16 Type="2" DockingCX="1366" Horiz="1" Panes="4" Pane-1="17" Pane-2="23" Pane-3="26" Pane-4="27"/>
-		<Pane-17 Type="2" DockingCX="566" DockingCY="1250" Panes="2" Pane-1="18" Pane-2="19"/>
+		<Pane-17 Type="2" DockingCX="627" DockingCY="1250" Panes="2" Pane-1="18" Pane-2="19"/>
 		<Pane-18 Type="1" DockingCX="293" DockingCY="551" Panes="1" Selected="8" Pane-1="8"/>
 		<Pane-19 Type="2" DockingCX="300" DockingCY="695" Horiz="1" Panes="3" Pane-1="20" Pane-2="21" Pane-3="22"/>
 		<Pane-20 Type="1" DockingCX="300" DockingCY="120" Panes="1" Selected="15" Pane-1="15"/>
 		<Pane-21 Type="1" DockingCX="300" DockingCY="120" Panes="1" Selected="9" Pane-1="9"/>
 		<Pane-22 Type="1" DockingCX="300" DockingCY="120" Panes="1" Selected="13" Pane-1="13"/>
-		<Pane-23 Type="2" DockingCX="796" DockingCY="1250" Panes="2" Pane-1="24" Pane-2="25"/>
+		<Pane-23 Type="2" DockingCX="735" DockingCY="1250" Panes="2" Pane-1="24" Pane-2="25"/>
 		<Pane-24 Type="1" DockingCX="522" DockingCY="963" Panes="3" Selected="6" Pane-1="6" Pane-2="1" Pane-3="5"/>
 		<Pane-25 Type="1" DockingCX="200" DockingCY="283" Panes="0"/>
 		<Pane-26 Type="4"/>

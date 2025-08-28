@@ -1,13 +1,17 @@
-<scene Author="dylan" Version="1.0" Dimmer="65535" Speed="0" PhasingCourbe="0" Phasing="0" Size="0" TypeButton="1" Shortcut="0" ShortcutFugitif="0" Port="-1" PortFugitif="0" DontReleaseOther="1" ReleaseOther="0" FlagSlider="0" FlagWorkSlider="0">
+<scene Author="dylan" Version="1.0" Dimmer="40959" Speed="0" PhasingCourbe="0" Phasing="0" Size="0" TypeButton="1" Shortcut="0" ShortcutFugitif="0" Port="-1" PortFugitif="0" DontReleaseOther="1" ReleaseOther="0" FlagSlider="0" FlagWorkSlider="0">
   <Multimedia File="" SX="0" SY="0" Loop="0" TimeStart="-1" TimeEnd="-1" StopWhenOtherStart="1" />
   <EasyShow State="0" Command="0" BreakPoint="" File="" />
   <Editor EasyTimeZoom="8" EasyTimeShowIcon="0" EasyTimeCompressColorXY="1" EasyTimeShowSelected="0" EasyTimeCompress="0" EasyTimeMagnetism="1" EasyTimeMagnetismValue="100" FixturesShowBeam="1" EasyTimeModeTempo="0" EasyTimeModeTempoFade="1" EasyTimeModeTempoPulse="0" EasyTimeMesures="1" EasyTimeMesureTimer="25" />
   <Switch WorkingType="0" AutoRelease="1" ReleaseOnDblClick="1" DoLimitedTime="0" LimitedTime="100" AllwaysOn="0" DoFade="0" FadePlaySeq="0" FadeTime="100" />
   <Scene DoFade="0" FadeSpeedReset="1" FadePlaySeq="0" FadeTimeBeforeUp="0" FadeTimeUp="500" FadeTimeBeforeDown="0" FadeTimeDown="500" DoFadePause="0" />
-  <EasyStep Loop="1" ModeAvanceLecture="0" AvanceLectureFade="1" NbStep="2">
-    <Time Fade="25" Wait="25" />
+  <EasyStep Loop="1" ModeAvanceLecture="0" AvanceLectureFade="1" NbStep="1">
     <Time Fade="0" Wait="25" />
   </EasyStep>
+  <EasyTimeEffect Index="1" Type="13" TypeChannel="0">
+    <DLMFILE TYPE="NOTYPE" VERSION="2">
+      <EFFECT EFFECTNAME="test effec chaser" EFFECTTYPE="16" EFFECTLEN="15000" EFFECTPHI="0" EFFECT16BITS="1" EFFECTOPACITY="100" MASKENABLE="0" MASKTOLERANCE="10" MASKRVALUE="0" MASKGVALUE="0" MASKBVALUE="0" EFFECTNBFIXT="15" CHASERTYPE="0" CHASERSIZE="8" CHASERSENS="0" EFFECTLEVEL="0" EFFECTLEVEL2="255" EFFECTMLEVEL="0" EFFECTMLEVEL2="255" />
+    </DLMFILE>
+  </EasyTimeEffect>
   <Fxs />
   <Fxs>
     <Fx ID="159" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
@@ -110,14 +114,7 @@
     <Fx ID="236" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="237" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="238" LibName="_GENERIC\PAR 36.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="1" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-    </Fx>
+    <Fx ID="1" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="2" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="3" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="4" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
@@ -148,21 +145,111 @@
     <Fx ID="29" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="30" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="31" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="32" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="33" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="34" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="35" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="36" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="37" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="38" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="39" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="40" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="41" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="42" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="43" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="44" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="45" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="46" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
+    <Fx ID="32" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="0" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff1f0760185a009737062900000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="33" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="1" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff9f54c030b400c9fea30b00000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="34" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="2" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff9f6a80616801ea799c0c00000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="35" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="3" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff9ff6806168013a84c87f00000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="36" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="4" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff7f0001c3d00254f439000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="37" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="5" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff7f300286a10548f720000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="38" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="6" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff7f480186a10570fa03000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="39" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="7" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789cfaff7f780086a10500000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="40" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="8" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c6260c001fe0f1380cb7f030b00000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="41" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="9" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c62602015fc1f2680648f531300000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="42" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="255" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="10" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c6260a01af83f4c00f542043700000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="43" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="11" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c6260a03df83f4c00158304000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="44" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="12" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c62601840f07f9800d27d0e000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="45" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="13" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c6260188ce0ff3001383d08000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
+    <Fx ID="46" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="3" L="0" LMD="0">
+        <EasyTime Loop="1" Bg="0" iBg="0">
+          <Block Type="13" InGroupRect="0" EffectManagerIndex="1" IndexPixel="14" Time="0" Duree="400" Min="0" Max="255" EffectName="" NbStep="375" Data="789c62601852e0ff300100000000ffff" />
+        </EasyTime>
+      </Ch>
+    </Fx>
     <Fx ID="47" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="48" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="49" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
@@ -173,29 +260,7 @@
     <Fx ID="54" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="55" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="215" LibName="_GENERIC\RGBD.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
-    <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="0" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="0" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="131" LMD="0">
-        <EasyStep>
-          <Step L="255" />
-          <Step L="131" />
-          <Step L="0" />
-        </EasyStep>
-      </Ch>
-    </Fx>
+    <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="57" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="58" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="59" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />

@@ -174,21 +174,21 @@
     <Fx ID="55" LibName="_GENERIC\PAR 64.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="215" LibName="_GENERIC\RGBD.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="131" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="131" />

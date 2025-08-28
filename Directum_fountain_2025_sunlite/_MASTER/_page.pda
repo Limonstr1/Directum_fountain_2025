@@ -5,6 +5,11 @@
     <ShortcutSendDmx Key="0" Flag="1" />
   </Global>
   <Lock AskPassword="0" PageRename="0" PageDelete="0" PageSettings="0" PageExport="0" PageFreeze="0" PageDmx="0" PageLock="0" PageAddInMaster="0" FxLiveMode="0" FxEmbeddedMode="0" FxAddEditDeleteRenameGroup="0" FxMove="0" Dimmer="0" Speed="0" ButtonsLayersChange="0" ButtonsLayersModif="0" ButtonsLayerOrder="0" ButtonsActivation="0" ButtonsOrder="1" ButtonsCreate="1" ButtonsEdit="1" ButtonsSettings="1" ButtonsRename="1" ButtonsDelete="1" ButtonsLinkKeyboard="1" ButtonsDimmer="0" ButtonsSpeed="0" ButtonsPhasing="0" ButtonsSize="0" />
+  <SwitchOn>
+    <Switch Page="ARC" Name="rezhim119" />
+    <Switch Page="RGB" Name="Fonari" />
+    <Switch Name="gubanov_RGB_ON_cyan_all" />
+  </SwitchOn>
   <Group Name="N1">
     <Shortcut Key="0" Flag="1" />
     <Fx ID="1" IdBeam="0" />
