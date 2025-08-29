@@ -1,6 +1,9 @@
 <EasyShow author="dylan" version="1.0">
   <global AutoSave="0" loop="0" play_at_the_begining="0" stop_on_break="1" show_audio="1" show_movie="0" show_cd="1" draw_mode="0" enable_history="1" Synchro="0" MidiInId="-1" MidiInName="" MidiOutId="-1" MidiOutName="" MidiOutFrameRates="1" MIDI_OUT="0" MIDI_play_in_zone="0" MIDI_offset_zone="0" MIDI_offset="0" />
   <bin>
+    <general_bin name="Bin 1">
+      <file folder="C:\Users\gubanov\Documents\Audacity\" name="Cutted_Powerglove-Tetris-world79.spcs.bio.wav" />
+    </general_bin>
     <light_data name="_MASTER">
       <file folder="_MASTER" name="Chase fade" type="12" />
       <file folder="_MASTER" name="squares15_blinking" type="12" />
@@ -42,10 +45,10 @@
       <file folder="_MASTER" name="ALL RED" type="12" />
       <file folder="_MASTER" name="gubanov_RGB_flash_all" type="12" />
       <file folder="_MASTER" name="I N I T" type="11" />
-      <file folder="_MASTER" name="04 BOOM RGB 5" type="12" />
-      <file folder="_MASTER" name="04 Strobe RGB 5" type="12" />
-      <file folder="_MASTER" name="04 Strobe RGB 6" type="12" />
-      <file folder="_MASTER" name="Egor fontan" type="12" />
+      <file folder="_MASTER" name="04 BOOM RGB 5" type="10" />
+      <file folder="_MASTER" name="04 Strobe RGB 5" type="10" />
+      <file folder="_MASTER" name="04 Strobe RGB 6" type="10" />
+      <file folder="_MASTER" name="Egor fontan" type="10" />
     </light_data>
     <light_data name="RGB">
       <file folder="RGB" name="Fonari" type="12" />
@@ -123,9 +126,6 @@
       <file folder="people" name="ShutterChaser BPM2" type="12" />
       <file folder="people" name="ShutterChaser" type="12" />
     </light_data>
-    <general_bin name="Bin 1">
-      <file folder="E:\ÔÎÍÒÀÍÛ\" name="Cutted_Powerglove-Tetris-world79.spcs.bio.wav" />
-    </general_bin>
   </bin>
   <time_line total_time="17364" starting_play_time="150" ending_play_time="11485">
     <tl_audio name="Audio" enable="1" lock="0" mute="0">
@@ -147,11 +147,9 @@
         <button name="10 Random Struya" type="12" position="4679" size="139" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="20" level="512" />
-          <dimmer position="0" level="512" />
           <dimmer position="139" level="512" />
           <speed position="0" level="256" />
           <speed position="20" level="256" />
-          <speed position="0" level="256" />
           <speed position="139" level="256" />
         </button>
         <button name="04 BOOM RGB ALL" type="12" position="5393" size="10" enable_dimmer="0" enable_speed="0">
@@ -163,11 +161,9 @@
         <button name="10 Random Struya" type="12" position="5851" size="139" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="20" level="512" />
-          <dimmer position="0" level="512" />
           <dimmer position="139" level="512" />
           <speed position="0" level="256" />
           <speed position="20" level="256" />
-          <speed position="0" level="256" />
           <speed position="139" level="256" />
         </button>
       </switch>
@@ -312,9 +308,9 @@
         </button>
         <button name="04 BOOM RGB 4+8" type="12" position="5606" size="19" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
-          <dimmer position="20" level="512" />
+          <dimmer position="19" level="512" />
           <speed position="0" level="256" />
-          <speed position="20" level="256" />
+          <speed position="19" level="256" />
         </button>
         <button name="04 BOOM RGB 3" type="12" position="5639" size="19" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
@@ -378,7 +374,7 @@
           <speed position="0" level="256" />
           <speed position="1100" level="256" />
         </button>
-        <button name="04 Strobe RGB 5" type="12" position="4819" size="1171" enable_dimmer="0" enable_speed="0">
+        <button name="04 Strobe RGB 5" type="10" position="4819" size="1171" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="1171" level="512" />
           <speed position="0" level="256" />
@@ -392,7 +388,7 @@
           <speed position="0" level="256" />
           <speed position="1100" level="256" />
         </button>
-        <button name="04 Strobe RGB 6" type="12" position="4820" size="1170" enable_dimmer="0" enable_speed="0">
+        <button name="04 Strobe RGB 6" type="10" position="4820" size="1170" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="1170" level="512" />
           <speed position="0" level="256" />
@@ -406,7 +402,7 @@
           <speed position="0" level="256" />
           <speed position="1100" level="256" />
         </button>
-        <button name="04 Strobe RGB 6" type="12" position="4819" size="1171" enable_dimmer="0" enable_speed="0">
+        <button name="04 Strobe RGB 6" type="10" position="4819" size="1171" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="1171" level="512" />
           <speed position="0" level="256" />
@@ -414,17 +410,37 @@
         </button>
       </switch>
       <switch enable="1" lock="0">
-        <button name="Real Tetris" type="12" position="153" size="592" enable_dimmer="0" enable_speed="0">
+        <button name="03 BOOM" type="12" position="1370" size="158" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
-          <dimmer position="592" level="512" />
+          <dimmer position="100" level="512" />
+          <dimmer position="158" level="512" />
           <speed position="0" level="256" />
-          <speed position="592" level="256" />
+          <speed position="100" level="256" />
+          <speed position="158" level="256" />
         </button>
-        <button name="Real Tetris" type="12" position="745" size="551" enable_dimmer="0" enable_speed="0">
+        <button name="03 BOOM" type="12" position="1626" size="158" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
-          <dimmer position="551" level="512" />
+          <dimmer position="100" level="512" />
+          <dimmer position="158" level="512" />
           <speed position="0" level="256" />
-          <speed position="551" level="256" />
+          <speed position="100" level="256" />
+          <speed position="158" level="256" />
+        </button>
+        <button name="03 BOOM" type="12" position="1922" size="158" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="100" level="512" />
+          <dimmer position="158" level="512" />
+          <speed position="0" level="256" />
+          <speed position="100" level="256" />
+          <speed position="158" level="256" />
+        </button>
+        <button name="03 BOOM" type="12" position="2192" size="158" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="100" level="512" />
+          <dimmer position="158" level="512" />
+          <speed position="0" level="256" />
+          <speed position="100" level="256" />
+          <speed position="158" level="256" />
         </button>
         <button name="25-36 verh volna" type="12" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
@@ -434,6 +450,30 @@
         </button>
       </switch>
       <switch enable="1" lock="0">
+        <button name="02 BOOM" type="12" position="1308" size="224" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="224" level="512" />
+          <speed position="0" level="256" />
+          <speed position="224" level="256" />
+        </button>
+        <button name="02 BOOM" type="12" position="1590" size="190" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="190" level="512" />
+          <speed position="0" level="256" />
+          <speed position="190" level="256" />
+        </button>
+        <button name="02 BOOM" type="12" position="1892" size="190" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="190" level="512" />
+          <speed position="0" level="256" />
+          <speed position="190" level="256" />
+        </button>
+        <button name="02 BOOM" type="12" position="2158" size="190" enable_dimmer="0" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="190" level="512" />
+          <speed position="0" level="256" />
+          <speed position="190" level="256" />
+        </button>
         <button name="25-36 niz volna" type="12" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="1100" level="512" />
@@ -442,6 +482,62 @@
         </button>
       </switch>
       <switch enable="1" lock="0">
+        <button name="01 BOOM" type="12" position="252" size="144" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="256" />
+          <dimmer position="64" level="416" />
+          <dimmer position="144" level="277" />
+          <speed position="0" level="256" />
+          <speed position="144" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="500" size="144" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="256" />
+          <dimmer position="68" level="448" />
+          <dimmer position="144" level="277" />
+          <speed position="0" level="256" />
+          <speed position="144" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="744" size="144" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="256" />
+          <dimmer position="68" level="448" />
+          <dimmer position="144" level="277" />
+          <speed position="0" level="256" />
+          <speed position="144" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="970" size="144" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="256" />
+          <dimmer position="68" level="448" />
+          <dimmer position="144" level="277" />
+          <speed position="0" level="256" />
+          <speed position="144" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="1242" size="292" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="70" level="512" />
+          <dimmer position="292" level="512" />
+          <speed position="0" level="256" />
+          <speed position="292" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="1562" size="222" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="70" level="512" />
+          <dimmer position="222" level="512" />
+          <speed position="0" level="256" />
+          <speed position="222" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="1860" size="222" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="70" level="512" />
+          <dimmer position="222" level="512" />
+          <speed position="0" level="256" />
+          <speed position="222" level="256" />
+        </button>
+        <button name="01 BOOM" type="12" position="2126" size="222" enable_dimmer="1" enable_speed="0">
+          <dimmer position="0" level="512" />
+          <dimmer position="70" level="512" />
+          <dimmer position="222" level="512" />
+          <speed position="0" level="256" />
+          <speed position="222" level="256" />
+        </button>
         <button name="25-36 rotating" type="12" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="1100" level="512" />
@@ -466,11 +562,13 @@
         </button>
       </switch>
       <switch enable="1" lock="0">
-        <button name="25-36 tyman" type="12" position="2500" size="1100" enable_dimmer="0" enable_speed="0">
+        <button name="25-36 tyman" type="12" position="2492" size="1108" enable_dimmer="0" enable_speed="0">
           <dimmer position="0" level="512" />
           <dimmer position="1100" level="512" />
+          <dimmer position="1108" level="512" />
           <speed position="0" level="256" />
           <speed position="1100" level="256" />
+          <speed position="1108" level="256" />
         </button>
       </switch>
       <switch enable="1" lock="0">
