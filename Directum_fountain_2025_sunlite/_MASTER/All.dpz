@@ -79,5 +79,7 @@
     <Button Name="04 BOOM RGB 4+8" Index="-2" />
     <Button Name="05 STROBE RGB ALL" Index="-2" />
     <Button Name="04 BOOM RGB ALL" Index="-2" />
+    <Button Name="04 BOOM RGB 5" Index="-2" />
+    <Button Name="04 STROBE RGB 6" Index="-2" />
   </Zone>
 </ZoneParam>
