@@ -23,6 +23,6 @@
 		<Pane-19 Type="1" DockingCX="709" DockingCY="120" Panes="1" Selected="5" Pane-1="5"/>
 		<Pane-20 Type="1" DockingCX="459" DockingCY="120" Panes="0"/>
 	</Common>
-	<DockFixtures DrawIris="1" DrawGobo="1" ZoomFixture="150" ShowFixtureBeam="1" ShowFixtureName="0"/>
-	<PosFrame x="-8" y="-8" cx="1382" cy="744"/>
+	<DockFixtures DrawIris="1" DrawGobo="1" ZoomFixture="225" ShowFixtureBeam="1" ShowFixtureName="0"/>
+	<PosFrame x="-8" y="-8" cx="1936" cy="1048"/>
 </DockingPaneLayouts>

@@ -168,19 +168,19 @@
     <Fx ID="215" LibName="_GENERIC\RGBD.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="56" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0" />
     <Fx ID="57" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -188,19 +188,19 @@
       </Ch>
     </Fx>
     <Fx ID="58" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -208,19 +208,19 @@
       </Ch>
     </Fx>
     <Fx ID="59" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -228,19 +228,19 @@
       </Ch>
     </Fx>
     <Fx ID="60" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -248,19 +248,19 @@
       </Ch>
     </Fx>
     <Fx ID="61" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -268,19 +268,19 @@
       </Ch>
     </Fx>
     <Fx ID="62" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -288,19 +288,19 @@
       </Ch>
     </Fx>
     <Fx ID="63" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -308,19 +308,19 @@
       </Ch>
     </Fx>
     <Fx ID="64" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -328,19 +328,19 @@
       </Ch>
     </Fx>
     <Fx ID="65" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -348,19 +348,19 @@
       </Ch>
     </Fx>
     <Fx ID="66" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -368,19 +368,19 @@
       </Ch>
     </Fx>
     <Fx ID="67" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -388,19 +388,19 @@
       </Ch>
     </Fx>
     <Fx ID="68" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -408,19 +408,19 @@
       </Ch>
     </Fx>
     <Fx ID="69" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -428,19 +428,19 @@
       </Ch>
     </Fx>
     <Fx ID="70" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -448,19 +448,19 @@
       </Ch>
     </Fx>
     <Fx ID="71" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -468,19 +468,19 @@
       </Ch>
     </Fx>
     <Fx ID="72" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -488,19 +488,19 @@
       </Ch>
     </Fx>
     <Fx ID="73" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -508,19 +508,19 @@
       </Ch>
     </Fx>
     <Fx ID="74" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -528,19 +528,19 @@
       </Ch>
     </Fx>
     <Fx ID="75" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -548,19 +548,19 @@
       </Ch>
     </Fx>
     <Fx ID="76" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -568,19 +568,19 @@
       </Ch>
     </Fx>
     <Fx ID="77" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -588,19 +588,19 @@
       </Ch>
     </Fx>
     <Fx ID="78" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -608,19 +608,19 @@
       </Ch>
     </Fx>
     <Fx ID="79" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -628,19 +628,19 @@
       </Ch>
     </Fx>
     <Fx ID="80" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -648,19 +648,19 @@
       </Ch>
     </Fx>
     <Fx ID="81" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -668,19 +668,19 @@
       </Ch>
     </Fx>
     <Fx ID="82" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -688,19 +688,19 @@
       </Ch>
     </Fx>
     <Fx ID="83" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
@@ -708,19 +708,19 @@
       </Ch>
     </Fx>
     <Fx ID="84" LibName="_GENERIC\RGB.SSL2" Activated0="1" InvPan0="0" InvTilt0="0">
-      <Ch MWhite="0" Index="0" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="0" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="1" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="1" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
         </EasyStep>
       </Ch>
-      <Ch MWhite="0" Index="2" Rack="4" L="0" LMD="0">
+      <Ch MWhite="0" Index="2" DmxInCh="1" DmxInU="0" Rack="4" L="255" LMD="0">
         <EasyStep>
           <Step L="255" />
           <Step L="0" />
